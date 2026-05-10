@@ -2,7 +2,7 @@
 
 Website profil modern dan interaktif untuk **Kelompok 15 LKM IF Angkatan 2025** – sebuah website kelompok studi Informatika yang menampilkan anggota tim dan materi pembelajaran.
 
-**🔗 Situs Langsung:** [lkm-kel-15.vercel.app](https://lkm-kel-15.vercel.app/)
+**🔗 Website:** [lkm-kel-15.vercel.app](https://lkm-kel-15.vercel.app/)
 
 ## ✨ Fitur
 
@@ -23,17 +23,17 @@ Website profil modern dan interaktif untuk **Kelompok 15 LKM IF Angkatan 2025** 
 
 Situs ini menampilkan profil dua mentor dan sepuluh anggota:
 
-| Peran | Nama | NPM | LinkedIn |
-|-------|------|-----|----------|
+| Peran | Nama |
+|-------|------|
 | *Mentor* | Dwi Aria Putra |
 | *Mentor* | Defan Ahmad Rubian |
 | Ketua Kelompok | Machdilhuda Barkah Gumilar |
-| Anggota | Febriana Nugraha | 257006111129 |
-| Anggota | Ryan Syahrul Muharam | 2570006111135 |
-| Anggota | Muhammad Ihsan Farhan Maulana | 257006111015 |
-| Anggota | Reisya Heryadi | 257006111002 |
-| Anggota | Fazlee Khayru Aozora | 257006111066 |
-| Anggota | Raisya Zahra Salsabila | 257006111179 |
-| Anggota | Rima Anggraeni | 257006111196 |
-| Anggota | Salwa Salsabila | 257006111065 |
-| Anggota | Rafi Ali Sidiq | 257006111185 |
+| Anggota | Febriana Nugraha |
+| Anggota | Ryan Syahrul Muharam |
+| Anggota | Muhammad Ihsan Farhan Maulana |
+| Anggota | Reisya Heryadi |
+| Anggota | Fazlee Khayru Aozora |
+| Anggota | Raisya Zahra Salsabila |
+| Anggota | Rima Anggraeni |
+| Anggota | Salwa Salsabila |
+| Anggota | Rafi Ali Sidiq |
